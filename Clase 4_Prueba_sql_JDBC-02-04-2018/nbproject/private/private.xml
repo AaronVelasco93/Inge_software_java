@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/amoyseñorlordofdekey/Google%20Drive/Clases/Ingeniería%20de%20software/JDBC/12Marzo/Prueba_sql_JDBC%20(1)/src/conf/dbdata.properties</file>
-            <file>file:/C:/Users/amoyseñorlordofdekey/Google%20Drive/Clases/Ingeniería%20de%20software/JDBC/12Marzo/Prueba_sql_JDBC%20(1)/src/ico/fes/iu/EjemploAlta.java</file>
+            <file>file:/C:/Users/amoyseñorlordofdekey/Documents/GitHub/Inge_software_java/Clase%204_Prueba_sql_JDBC-02-04-2018/src/ico/fes/iu/EjemploConsulta.java</file>
+            <file>file:/C:/Users/amoyseñorlordofdekey/Documents/GitHub/Inge_software_java/Clase%204_Prueba_sql_JDBC-02-04-2018/src/conf/dbdata.properties</file>
+            <file>file:/C:/Users/amoyseñorlordofdekey/Documents/GitHub/Inge_software_java/Clase%204_Prueba_sql_JDBC-02-04-2018/src/ico/fes/iu/EjemploAlta.java</file>
+            <file>file:/C:/Users/amoyseñorlordofdekey/Documents/GitHub/Inge_software_java/Clase%204_Prueba_sql_JDBC-02-04-2018/src/ico/fes/dao/ConexionDataBase.java</file>
         </group>
     </open-files>
 </project-private>
