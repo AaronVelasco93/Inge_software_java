@@ -1,26 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Clase -> ClienteNuevoAdapter 
 package ico.fes.adapter;
+import ico.fes.ClienteNuevo;//importar
 
-import ico.fes.ClienteNuevo;
+public class ClienteNuevoAdapter implements Cliente {
 
-public class ClienteNuevoAdapter implements Cliente{
+    private ClienteNuevo adaptado;
 
-   private ClienteNuevo adaptado;
-    
-   public ClienteNuevoAdapter(ClienteNuevo cli){
-   this.adaptado=cli;
-   }
+    public ClienteNuevoAdapter(ClienteNuevo cli) {
+        this.adaptado = cli;
+    }
 
-   @Override
-   public void cobrarCuotaMensual(float cuota,float multa, float descuento){
-       adaptado.cobrarCuotaMensual(cuota);
-   }
-   
-    
-    
-    
+    @Override
+    public void cobrarCuotaMensual(float cuota, float multa, float descuento) {
+        adaptado.cobrarCuotaMensual(cuota);
+    }
+
 }
